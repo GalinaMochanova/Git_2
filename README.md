@@ -11,3 +11,7 @@
 --- 
 
 Задание можно посмотреть в файле [HW_git_2.md](https://github.com/GalinaMochanova/Git_2/blob/main/HW_git_2.md)
+
+---
+
+Ссылка на первое задание по Git commands [тут](https://github.com/GalinaMochanova/Git/blob/main/HW_git_1.md)
