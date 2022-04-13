@@ -14,4 +14,4 @@
 
 ---
 
-Ссылка на первое задание по Git commands [тут](https://github.com/GalinaMochanova/Git/blob/main/HW_git_1.md)
+Первое задание по Git commands и выполнение [тут](https://github.com/GalinaMochanova/Git/blob/main/HW_git_1.md)
