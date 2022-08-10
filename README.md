@@ -10,7 +10,7 @@
 
 --- 
 
-Задание можно посмотреть в файле [HW_git_2.md](https://github.com/GalinaMochanova/Git_2/blob/main/HW_git_2.md)
+Выполнение задания можно посмотреть [тут](https://github.com/GalinaMochanova/Git_2/blob/main/HW_git_2.md)
 
 ---
 
